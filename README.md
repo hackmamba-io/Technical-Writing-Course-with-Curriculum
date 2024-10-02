@@ -1,4 +1,4 @@
-# Course Curriculum - Beginners & Intermediate
+# Course Curriculum - Beginner & Intermediate Level
 
 This Curriculum by [Hackmamba](https://hackmamba.io/) is designed for newbie and beginner technical writers who want to excel in technical writing and learn more about it.  
 
