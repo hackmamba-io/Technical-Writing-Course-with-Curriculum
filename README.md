@@ -140,5 +140,32 @@ Write a short introduction about technical writing based on these resources and 
 
 ## Collaboration and Content Review 🤝
 
+<details>
+
+<summary>Collaborative Writing</summary>
+
+**[Collaborative writing on Technical teams](https://www.youtube.com/watch?v=rde2nVaU-9s)**
+
+**[The top 7 collaborative document editing tools](https://www.bynder.com/en/blog/the-top-7-collaborative-document-editing-tools/)**
+
+**[7 Ways to Accelerate Your Content Review and Approval](https://contentmarketinginstitute.com/articles/accelerate-content-approval/)**
+
+</details>
 
 ## Portfolio Development and Continuous Learning  💼
+
+<details>
+
+<summary>Writing Portfolio</summary>
+
+**[How to create a Technical Writing Portfolio](https://www.everythingtechnicalwriting.com/technical-writing-portfolio/)**
+
+**[Top Technical Writing Portfolio Examples 2024](https://technicalwriterhq.com/career/technical-writer/technical-writer-portfolio/)**
+
+**[How to Build an Awesome Technical Writing Portfolio and 5 Excellent Examples](https://www.journoportfolio.com/blog/how-to-build-a-technical-writing-portfolio-and-5-excellent-examples/)**
+
+**[Continuous Learning in Tech: Strategies for Keeping Your Skills Sharp Throughout Your Career](https://ivyexec.com/career-advice/2024/continuous-learning-in-tech-strategies-for-keeping-your-skills-sharp-throughout-your-career)**
+
+**[What is continuous learning?](https://www.techtarget.com/whatis/definition/continuous-learning)**
+
+</details>
