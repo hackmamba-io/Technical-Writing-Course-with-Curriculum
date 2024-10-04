@@ -40,6 +40,8 @@ If you have questions or just want to network with other technical writers, join
 
 **[What is the Technical Writer Career Path?](https://www.youtube.com/watch?v=RZF34wQEv0Y)**
 
+**[How to Write Efficient Technical Blog Posts](https://www.youtube.com/watch?v=6LJ0-eHgBKc&t=74s)**
+
 </details>
 
 
@@ -54,6 +56,8 @@ Write a short introduction about technical writing based on these resources and 
 
 <details>
 <summary>Essential Skills</summary>
+
+**[Steps to creating an outstanding content outline for Technical Writers](https://hackmamba.io/blog/2024/08/content-outline-for-technical-writers/)**
     
 **[9 Essential Technical Writing Skills Every Writer Must Possess](https://whatfix.com/blog/technical-writing-skills/)**
     
@@ -103,9 +107,36 @@ Write a short introduction about technical writing based on these resources and 
 
 ## Guides and Types 🗺️
 
+<details>
+
+<summary>Forms of technical writing</summary>
+    
+**[Exploring the 11 Types of Technical Writing](https://www.acadecraft.com/blog/types-of-technical-writing/)**    
+    
+**[API Documentation Guide and Best Practices](https://stoplight.io/api-documentation-guide)**
+    
+**[Content Troubleshooting Guide](https://contentmanagementcourse.com/content-troubleshooting/content-troubleshooting-guide/)**
+
+</details>
+
 
 ## Research and SEO for Technical Writing 🔬
 
+<details>
+
+<summary>What is SEO?</summary>
+
+**[SEO Explained: What Is SEO?](https://www.youtube.com/watch?v=pIbQfOcsEsE)**
+
+**[Keyword Research for SEO Beginners](https://www.youtube.com/watch?v=OMJQPqG2Uas)**
+
+**[What is on-page SEO?](https://yoast.com/what-is-onpage-seo/)**
+
+**[41 Best SEO Tools (Free & Paid](https://backlinko.com/best-free-seo-tools))**
+
+**[Tips on Conducting Proper Research in Tech Writing](https://medium.com/technical-writing-is-easy/tips-on-conducting-proper-research-in-tech-writing-7eeba58bde81)** 
+
+</details>
 
 ## Collaboration and Content Review 🤝
 
