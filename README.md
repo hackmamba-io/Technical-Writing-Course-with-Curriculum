@@ -10,16 +10,16 @@ If you have questions or just want to network with other technical writers, join
 ## Required Skills for Technical Writers ⚙️
 
 
-## Resources and Tools for Best Practices
+## Resources and Tools for Best Practices 🗂️
 
 
-## Guides and Types
+## Guides and Types 🗺️
 
 
-## Research and SEO for Technical Writing
+## Research and SEO for Technical Writing 🔬
 
 
-## Collaboration and Content Review
+## Collaboration and Content Review 🤝
 
 
-## Portfolio Development and Continuous Learning
+## Portfolio Development and Continuous Learning  💼
