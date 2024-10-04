@@ -227,6 +227,99 @@ Write a short introduction about technical writing based on these resources and 
 
 </details>
 
+### Best Practices
+
+<details>
+
+<summary>Best practices</summary>
+    
+**[Top 10 Tips for Great Technical Writing](https://document360.com/blog/top-10-tips-for-great-technical-writing/)**
+    
+**[Best Practices in Technical Writing](https://www.gcu.edu/blog/language-communication/best-practices-technical-writing)**
+    
+**[Technical Writing: 6 Best Practices for Effective Content](https://proedit.com/technical-writing-best-practices/)**
+
+</details>
+
+### Learning Outcomes
+
+<details>
+
+<summary>Resources</summary>
+
+**[Working with APIs by Knowledge Owl](https://www.notion.so/Resources-and-Best-Practices-0cd869f629d649369e0f9c6e084aa7e0?pvs=21)**
+
+**[Learn Markdown](https://www.notion.so/Resources-and-Best-Practices-0cd869f629d649369e0f9c6e084aa7e0?pvs=21)**
+
+**[Git and Version Control](https://www.notion.so/Resources-and-Best-Practices-0cd869f629d649369e0f9c6e084aa7e0?pvs=21)**
+
+</details>
+
+### Podcasts
+
+<details>
+
+<summary>Resources</summary>
+
+**[Thenotboringtechwriter Podcast](https://www.thenotboringtechwriter.com/)**
+
+**[Technical Marketing Handbook](https://www.stitcher.com/show/technical-marketing-handbook)**
+
+**[10 Mins Tech Comm](https://www.stitcher.com/show/10minute-tech-comm)**
+
+**[API THE DOCS podcast](https://apithedocs.org/podcast?page=1)**
+
+</details>
+
+### Books
+
+<details>
+
+<summary>Good Reads</summary>
+
+**[Open Technical Communication!](https://alg.manifoldapp.org/read/open-technical-communication/section/67ef90ba-8ca3-4e8e-abb0-0a3966cf2ac7)**
+
+**[Docs for Developers](https://www.amazon.com/dp/1484272161/ref=cm_sw_r_awdo_navT_g_SV4HMY0QJNCGSEZ96T21)**
+
+**[The Mayfield Handbook of Technical and Scientific Writing](http://www.mit.edu/course/21/21.guide/toc.htm)**
+
+**[Writing Handbook](https://www.julian.com/guide/write/intro)**
+
+**[Technical Writing 101: A Real-World Guide to Planning and Writing Technical Content](https://www.gettextbooks.com/isbn/9780970473363/)**
+
+**[Docs for Developers](https://learning.oreilly.com/library/view/docs-for-developers/9781484272176/html/505277_1_En_BookFrontmatter_OnlinePDF.xhtml)**
+
+</details>
+
+### Courses
+
+<details>
+
+<summary>Resources</summary>
+
+**[Learn Tech Writing](https://learntechwriting.co/index.html)**
+
+**[Tech Writers Master Class](https://www.udemy.com/course/tech-writers-master-class/)**
+
+**[Technical writing course by TechnicalWriterHQ](https://technicalwriter.teachable.com/p/home?referral_code=6TJ7SI?ref=everythingtechnicalwriting.com) (paid)**
+
+**[Fundamentals of Technical Writing by Ed2go](https://www.ed2go.com/courses/writing/writing-and-editing/ilc/fundamentals-of-technical-writing?ref=everythingtechnicalwriting.com) (paid)**
+
+**[Technical writing course by Google](https://developers.google.com/tech-writing?ref=everythingtechnicalwriting.com) (free)**
+
+**[Writing for Software developers](https://philipkiely.gumroad.com/l/uZPZU?ref=everythingtechnicalwriting.com) (paid)**
+
+**[Open technical communication course](https://alg.manifoldapp.org/projects/open-tc?ref=everythingtechnicalwriting.com) (free)**
+
+**[Technical writing: Documentation on software projects by Pluralsight](https://app.pluralsight.com/library/courses/technical-writing-software-documentation/table-of-contents?ref=everythingtechnicalwriting.com) (paid)**
+
+**[All of HubSpot's SEO courses, in one place](https://www.hubspot.com/resources/courses/seo)**
+
+**[10 Completely Free SEO Training Courses](https://ahrefs.com/blog/free-seo-courses/)**
+
+**[Complete SEO Course for Beginners](https://youtu.be/xsVTqzratPs)**
+
+</details>
 
 ## Guides and Types 🗺️
 
