@@ -7,7 +7,7 @@ If you have questions or just want to network with other technical writers, join
 ## Introduction to Technical Writing 📝
 
 
-## Required Skills for Technical Writers
+## Required Skills for Technical Writers ⚙️
 
 
 ## Resources, Tools Best Practices
