@@ -104,6 +104,129 @@ Write a short introduction about technical writing based on these resources and 
 
 ## Resources and Tools for Best Practices 🗂️
 
+### Tooling
+
+<details>
+
+<summary>Publishing Tools</summary>
+ 
+**[Most Popular Tools for Technical Writing](https://document360.com/blog/tools-for-technical-writing/)**
+    
+**[Best Technical Writing Software and Tools for 2024](https://clickhelp.com/clickhelp-technical-writing-blog/15-best-technical-writing-software-and-tools/)**
+    
+**[Best Knowledge Base Software and Tools in 2024](https://clickhelp.com/clickhelp-technical-writing-blog/11-best-knowledge-base-software-and-tools/#what-is-a-knowledge-base-software)**
+    
+**[Essential Tools for Technical Writing](https://helpjuice.com/blog/technical-writing-tools)**
+    
+**[Authoring Tools for Technical Writers](https://www.linkedin.com/pulse/authoring-tools-technical-writers-comprehensive-overview-opere/)**
+    
+
+</details>   
+
+<details>
+
+<summary>SEO Tools</summary>
+
+
+[Best SEO Tools](https://zapier.com/blog/best-seo-tools/)
+
+</details>
+
+<details>
+
+<summary>Plagiarism Checker</summary>
+
+
+**[Best plagiarism checker 2024 revealed](https://youtu.be/y3k96r3Y1wQ?si=PAogvbCt315JtfX7)**
+    
+**[10 Best Free Plagiarism Checkers](https://www.scribbr.com/plagiarism/best-free-plagiarism-checker/)**
+
+**[The 11 Best Plagiarism Checkers for Freelance Writers](https://www.jenniferberube.com/best-plagiarism-checkers-for-freelance-writers/)**
+
+</details>
+
+<details>
+
+<summary>Editing Tools</summary>
+
+
+**[Best Writing & Editing Tools in 2024](https://www.semrush.com/blog/content-editing-tools/)** 
+
+**[The Best Free & Paid Proofreading & Editing Software](https://scribemedia.com/proofreading-editing-software/)** by **Tucker Max**
+
+</details>
+
+<details>
+
+<summary>Git / Version Control</summary>
+
+**[Getting Started - About Version Control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)**
+
+**[Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://youtu.be/Uszj_k0DGsg?si=Oz3pJquBy1DCjONc)**
+        
+</details>    
+        
+<details>
+
+<summary>Markdown</summary>
+
+**[The Only Markdown Crash Course You Will Ever Need](https://youtu.be/_PPWWRV6gbA?si=Euu86WZk21soZnq8)**
+        
+**[An overview of Markdown, how it works, and what you can do with it**](https://www.markdownguide.org/)**
+
+</details>
+
+<details>
+
+<summary>Publishing Platforms</summary>
+    
+**[Medium](https://medium.com/)**
+    
+**[Hashnode](https://hashnode.com/)**
+    
+**[Dev.to](https://dev.to/)**
+    
+**[Daily Dev](https://daily.dev/)**
+    
+**[freeCodeCamp](https://www.freecodecamp.org/)**
+
+</details>
+
+### Networking
+
+<details>
+
+<summary>Communities & Forums</summary>
+
+
+[**Technical Writing Communities**](https://medium.com/technical-writing-is-easy/technical-writing-communities-ef807c11134c)
+
+[**Technical Writing Forums and Communities**](https://blog.contentre.io/technical-writing-forums-and-communities/)
+
+**[Technical Typers community](https://discord.gg/2zGqkPVAy6)**
+
+**[Reddit](https://www.reddit.com/r/technicalwriting/)**
+
+**[Non Technical in Tech](https://join.slack.com/t/nontechintech/shared_invite/zt-s9eg89md-oa_0xTZpVn2iYZvOoAIhBQ)**
+
+**[Linkedin Technical Writing Group](https://www.linkedin.com/groups/112571/)**
+
+**[The Markup Scribe by William Imoh](https://subscribe.dentry.io/lr2F0z)**
+
+**[Write the Docs Newsletter](https://www.writethedocs.org/newsletter/)**
+
+**[I'd Rather Be Writing Newsletter](https://idratherbewriting.com/newsletter/)**
+
+**[Everything Technical Writing](https://www.everythingtechnicalwriting.com/#subscribe-form)**
+
+**[Technical Writing Insiders by Josh Fechter](https://technicalwriterhq.com/newsletter-subscribe/)**
+
+**[Technical Writing for Developers](https://www.subscribepage.com/technicalwriting)**
+
+**[Source Code by Suraj Vishwakarma](https://substack.com/@surajondev)**
+
+</details>
+
 
 ## Guides and Types 🗺️
 
