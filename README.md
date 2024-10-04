@@ -6,6 +6,10 @@ If you have questions or just want to network with other technical writers, join
 
 ## Introduction to Technical Writing 📝
 
+### Introduction
+
+**Understand the definition, importance, and role of technical writing.**
+
 <details>
 <summary>What is Technical Writing</summary>
 
@@ -37,6 +41,11 @@ If you have questions or just want to network with other technical writers, join
 **[What is the Technical Writer Career Path?](https://www.youtube.com/watch?v=RZF34wQEv0Y)**
 
 </details>
+
+
+### Activities:
+
+Write a short introduction about technical writing based on these resources and publish it on any blogging platform.
 
 
 ## Required Skills for Technical Writers ⚙️
