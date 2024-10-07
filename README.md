@@ -385,7 +385,3 @@ Write a short introduction about technical writing based on these resources and 
 **[What is continuous learning?](https://www.techtarget.com/whatis/definition/continuous-learning)**
 
 </details>
-
-
-
-https://github.com/hackmamba-io/Technical-Writing-Course-with-Curriculum/graphs/contributors
