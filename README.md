@@ -13,6 +13,8 @@ If you have questions or just want to network with other technical writers, join
 <details>
 <summary>What is Technical Writing</summary>
 
+**[How to Write Efficient Technical Blog Posts](https://www.youtube.com/watch?v=6LJ0-eHgBKc&t=74s)**
+
 **[What is Technical Writing?](https://technicalwriterhq.com/writing/technical-writing/)** 
 
 **[Technical Writing: What and How?](https://edidiongasikpo.com/technical-writing-what-and-how)** 
@@ -39,8 +41,6 @@ If you have questions or just want to network with other technical writers, join
 <summary>Growth as a Technical Writer</summary>
 
 **[What is the Technical Writer Career Path?](https://www.youtube.com/watch?v=RZF34wQEv0Y)**
-
-**[How to Write Efficient Technical Blog Posts](https://www.youtube.com/watch?v=6LJ0-eHgBKc&t=74s)**
 
 </details>
 
