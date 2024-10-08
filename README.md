@@ -4,6 +4,9 @@ This Curriculum by **[Hackmamba](https://hackmamba.io/)** is designed for newbie
 
 If you have questions or just want to network with other technical writers, join our **[Discord](https://discord.com/invite/MjbyDy3sPp)** community!
 
+Make sure to give us a star ⭐ on this repository. This will help us out a lot to improve and work on amazing projects and programs like these!
+
+
 ## Introduction to Technical Writing 📝
 
 ### Introduction
