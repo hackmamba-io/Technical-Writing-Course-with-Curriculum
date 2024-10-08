@@ -28,10 +28,6 @@ Thanks for taking the time to contribute! Here are some guidelines to help you:
 
 4. **Open a Pull Request**: Once your changes are ready, submit a pull request.
 
-## Code of Conduct
-
-By participating, you are expected to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
-
 ## Style Guidelines
 
 - Follow the existing code style.
@@ -39,9 +35,7 @@ By participating, you are expected to adhere to our [Code of Conduct](CODE_OF_CO
   
 ## Reporting Issues
 
-- Use [Issues](https://github.com/project-name/repo-name/issues) to report bugs or request features.
+- Use [Issues](https://github.com/hackmamba-io/Technical-Writing-Course-with-Curriculum/issues) to report bugs or request features.
 - Provide a detailed description and steps to reproduce (if applicable).
 
 ---
-
-You can adjust the guidelines based on your specific project’s needs.
