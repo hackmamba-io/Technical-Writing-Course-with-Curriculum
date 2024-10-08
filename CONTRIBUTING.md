@@ -1,4 +1,4 @@
-# Contributing to [Technical Writing Course with Curriculum]
+# Contributing to Technical Writing Course with Curriculum
 
 Thanks for taking the time to contribute! Here are some guidelines to help you:
 
