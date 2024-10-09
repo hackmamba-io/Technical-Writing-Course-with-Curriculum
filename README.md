@@ -346,8 +346,6 @@ Write a short introduction about technical writing based on these resources and 
 
 **[Alistapart Style Guide](https://alistapart.com/about/style-guide/)**
 
-
-
 </details>
 
 ## Research and SEO for Technical Writing 🔬
@@ -415,13 +413,9 @@ Write a short introduction about technical writing based on these resources and 
 
 **[Contributing to open source docs as a technical writer](https://passo.uno/contribute-open-source-docs/)** By Fabrizio Ferri Benedetti
 
-**[Open Source for Technical Writers - A Guide on how to make Contributions.](https://medium.com/@techwritershub/open-source-for-technical-writers-a-guide-on-how-to-make-contributions-ab1bb1962fc1)** By TechWriters Hub 
+**[Open Source for Technical Writers - A Guide on how to make Contributions.](https://medium.com/@techwritershub/open-source-for-technical-writers-a-guide-on-how-to-make-contributions-ab1bb1962fc1)** By TechWriters Hub
 
 **[The Technical Writers Guide to Contributing to Open Source Projects](https://edidiongasikpo.com/the-technical-writers-guide-to-contributing-to-open-source-projects)** By Edidiong Asikpo (Didi)
-
-
-
-
 
 </details>
 
