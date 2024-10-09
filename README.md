@@ -1,11 +1,10 @@
 # Course Curriculum - Beginner & Intermediate Level
 
-This Curriculum by **[Hackmamba](https://hackmamba.io/)** is designed for newbie and beginner technical writers who want to excel in technical writing and learn more about it.  
+This Curriculum by **[Hackmamba](https://hackmamba.io/)** is designed for newbie and beginner technical writers who want to excel in technical writing and learn more about it.
 
 If you have questions or just want to network with other technical writers, join our **[Discord](https://discord.com/invite/MjbyDy3sPp)** community!
 
 Make sure to give us a star ⭐ on this repository. This will help us out a lot to improve and work on amazing projects and programs like these!
-
 
 ## Introduction to Technical Writing 📝
 
@@ -18,23 +17,24 @@ Make sure to give us a star ⭐ on this repository. This will help us out a lot 
 
 **[How to Write Efficient Technical Blog Posts](https://www.youtube.com/watch?v=6LJ0-eHgBKc&t=74s)**
 
-**[What is Technical Writing?](https://technicalwriterhq.com/writing/technical-writing/)** 
+**[What is Technical Writing?](https://technicalwriterhq.com/writing/technical-writing/)**
 
-**[Technical Writing: What and How?](https://edidiongasikpo.com/technical-writing-what-and-how)** 
+**[Technical Writing: What and How?](https://edidiongasikpo.com/technical-writing-what-and-how)**
 
-**[Everything you need to know to become a technical writer](https://www.everythingtechnicalwriting.com/everything-you-need-to-know-about-technical-writing/)** 
+**[Everything you need to know to become a technical writer](https://www.everythingtechnicalwriting.com/everything-you-need-to-know-about-technical-writing/)**
 
 **[The ABCs of Technical Writing](https://www.developernation.net/blog/the-abcs-of-technical-writing/)**
 
-**[A software developer's guide to Writing](https://theankurtyagi.com/a-software-developers-guide-to-writing/)** 
+**[A software developer's guide to Writing](https://theankurtyagi.com/a-software-developers-guide-to-writing/)**
 
 **[Types of Technical Writing](https://www.acadecraft.com/blog/types-of-technical-writing/)**
+
 </details>
 
 <details>
 <summary>Role of technical writers in an organization</summary>
 
-**[Why is Technical Writing Important at Workplace](https://www.acadecraft.com/blog/reasons-why-is-technical-writing-important/)** 
+**[Why is Technical Writing Important at Workplace](https://www.acadecraft.com/blog/reasons-why-is-technical-writing-important/)**
 
 [**Why Technical Writing Is Critical to the Success of An Organisation**](https://keepler.io/2022/06/01/why-technical-writing-is-critical-to-the-success-of-an-organisation/)
 
@@ -47,11 +47,9 @@ Make sure to give us a star ⭐ on this repository. This will help us out a lot 
 
 </details>
 
-
 ### Activities:
 
 Write a short introduction about technical writing based on these resources and publish it on any blogging platform.
-
 
 ## Required Skills for Technical Writers ⚙️
 
@@ -61,15 +59,14 @@ Write a short introduction about technical writing based on these resources and 
 <summary>Essential Skills</summary>
 
 **[Steps to creating an outstanding content outline for Technical Writers](https://hackmamba.io/blog/2024/08/content-outline-for-technical-writers/)**
-    
-**[9 Essential Technical Writing Skills Every Writer Must Possess](https://whatfix.com/blog/technical-writing-skills/)**
-    
-**[Essential Technical Writing Skills](https://technicalwriterhq.com/career/technical-writer/technical-writing-skills/)**
-    
-**[11 Skills of a Good Technical Writer](https://clickhelp.com/clickhelp-technical-writing-blog/11-skills-of-a-good-technical-writer/#interest-in-science-and-technology)**
-    
-</details>
 
+**[9 Essential Technical Writing Skills Every Writer Must Possess](https://whatfix.com/blog/technical-writing-skills/)**
+
+**[Essential Technical Writing Skills](https://technicalwriterhq.com/career/technical-writer/technical-writing-skills/)**
+
+**[11 Skills of a Good Technical Writer](https://clickhelp.com/clickhelp-technical-writing-blog/11-skills-of-a-good-technical-writer/#interest-in-science-and-technology)**
+
+</details>
 
 <details>
 <summary>Topic Score</summary>
@@ -85,12 +82,11 @@ Write a short introduction about technical writing based on these resources and 
 <details>
 
 <summary>Keyword Volume</summary>
-    
 
 **[Keyword Search Volume Insights: A Detailed Overview](https://neilpatel.com/blog/keyword-search-volume/)**
-    
-**[Keyword Search Volume: What It Is & How to Find It](https://www.semrush.com/blog/keyword-search-volume/)** 
-    
+
+**[Keyword Search Volume: What It Is & How to Find It](https://www.semrush.com/blog/keyword-search-volume/)**
+
 **[Keyword Research Tutorial: Best Strategies to Rank #1](https://youtu.be/NadiT0HYt4Y?si=aGIaY3XHlS5w-zd_)**
 
 </details>
@@ -122,14 +118,12 @@ Write a short introduction about technical writing based on these resources and 
 **[Essential Tools for Technical Writing](https://helpjuice.com/blog/technical-writing-tools)**
     
 **[Authoring Tools for Technical Writers](https://www.linkedin.com/pulse/authoring-tools-technical-writers-comprehensive-overview-opere/)**
-    
 
-</details>   
+</details>
 
 <details>
 
 <summary>SEO Tools</summary>
-
 
 [Best SEO Tools](https://zapier.com/blog/best-seo-tools/)
 
@@ -139,9 +133,8 @@ Write a short introduction about technical writing based on these resources and 
 
 <summary>Plagiarism Checker</summary>
 
-
 **[Best plagiarism checker 2024 revealed](https://youtu.be/y3k96r3Y1wQ?si=PAogvbCt315JtfX7)**
-    
+
 **[10 Best Free Plagiarism Checkers](https://www.scribbr.com/plagiarism/best-free-plagiarism-checker/)**
 
 **[The 11 Best Plagiarism Checkers for Freelance Writers](https://www.jenniferberube.com/best-plagiarism-checkers-for-freelance-writers/)**
@@ -152,8 +145,7 @@ Write a short introduction about technical writing based on these resources and 
 
 <summary>Editing Tools</summary>
 
-
-**[Best Writing & Editing Tools in 2024](https://www.semrush.com/blog/content-editing-tools/)** 
+**[Best Writing & Editing Tools in 2024](https://www.semrush.com/blog/content-editing-tools/)**
 
 **[The Best Free & Paid Proofreading & Editing Software](https://scribemedia.com/proofreading-editing-software/)** by **Tucker Max**
 
@@ -166,7 +158,7 @@ Write a short introduction about technical writing based on these resources and 
 **[Getting Started - About Version Control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)**
 
 **[Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://youtu.be/Uszj_k0DGsg?si=Oz3pJquBy1DCjONc)**
-        
+
 </details>    
         
 <details>
@@ -174,8 +166,8 @@ Write a short introduction about technical writing based on these resources and 
 <summary>Markdown</summary>
 
 **[The Only Markdown Crash Course You Will Ever Need](https://youtu.be/_PPWWRV6gbA?si=Euu86WZk21soZnq8)**
-        
-**[An overview of Markdown, how it works, and what you can do with it**](https://www.markdownguide.org/)**
+
+**[An overview of Markdown, how it works, and what you can do with it**](https://www.markdownguide.org/)\*\*
 
 </details>
 
@@ -200,7 +192,6 @@ Write a short introduction about technical writing based on these resources and 
 <details>
 
 <summary>Communities & Forums</summary>
-
 
 [**Technical Writing Communities**](https://medium.com/technical-writing-is-easy/technical-writing-communities-ef807c11134c)
 
@@ -338,7 +329,6 @@ Write a short introduction about technical writing based on these resources and 
 
 </details>
 
-
 ## Research and SEO for Technical Writing 🔬
 
 <details>
@@ -353,7 +343,7 @@ Write a short introduction about technical writing based on these resources and 
 
 **[41 Best SEO Tools (Free & Paid](https://backlinko.com/best-free-seo-tools))**
 
-**[Tips on Conducting Proper Research in Tech Writing](https://medium.com/technical-writing-is-easy/tips-on-conducting-proper-research-in-tech-writing-7eeba58bde81)** 
+**[Tips on Conducting Proper Research in Tech Writing](https://medium.com/technical-writing-is-easy/tips-on-conducting-proper-research-in-tech-writing-7eeba58bde81)**
 
 </details>
 
@@ -371,7 +361,7 @@ Write a short introduction about technical writing based on these resources and 
 
 </details>
 
-## Portfolio Development and Continuous Learning  💼
+## Portfolio Development and Continuous Learning 💼
 
 <details>
 
@@ -388,3 +378,11 @@ Write a short introduction about technical writing based on these resources and 
 **[What is continuous learning?](https://www.techtarget.com/whatis/definition/continuous-learning)**
 
 </details>
+
+## Our Top Contributors ✨
+
+Hackmamba wouldn't be Hackmamba without you.Every contribution counts. Thank you for being part of this journey.
+
+<a href="https://github.com/hackmamba-io/Technical-Writing-Course-with-Curriculum/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=hackmamba-io/Technical-Writing-Course-with-Curriculum" max={1000} columns={100} anon={1} />
+</a>
