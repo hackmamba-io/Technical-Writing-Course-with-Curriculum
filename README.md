@@ -329,6 +329,27 @@ Write a short introduction about technical writing based on these resources and 
 
 </details>
 
+<details>
+<summary>Style Guides</summary>
+
+**[The freeCodeCamp Publication Style Guide](https://www.freecodecamp.org/news/developer-news-style-guide)**
+
+**[Microsoft Writing Style Guide](https://learn.microsoft.com/en-us/style-guide/welcome/)**
+
+**[Google Developer Documentation Style Guide](https://developers.google.com/style)**
+
+**[Diátaxis](https://diataxis.fr/)**
+
+**[Gitlab Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/)**
+
+**[Gatsby Style Guide](https://www.gatsbyjs.com/contributing/gatsby-style-guide/)**
+
+**[Alistapart Style Guide](https://alistapart.com/about/style-guide/)**
+
+
+
+</details>
+
 ## Research and SEO for Technical Writing 🔬
 
 <details>
@@ -376,6 +397,31 @@ Write a short introduction about technical writing based on these resources and 
 **[Continuous Learning in Tech: Strategies for Keeping Your Skills Sharp Throughout Your Career](https://ivyexec.com/career-advice/2024/continuous-learning-in-tech-strategies-for-keeping-your-skills-sharp-throughout-your-career)**
 
 **[What is continuous learning?](https://www.techtarget.com/whatis/definition/continuous-learning)**
+
+</details>
+
+<details>
+<summary>Contributing to Open Source Projects</summary>
+
+**[How to Contribute to Open Source – a Guide for Technical Writers](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-for-technical-writers/)** By Valentine Gatwiri
+
+**[Contributing to Hacktoberfest as a technical writer](https://www.everythingtechnicalwriting.com/contributing-to-hacktoberfest-as-a-technical-writer/)** By Linda Ikechukwu
+
+**[Getting started with Open Source as a Technical Writer.](https://amara.hashnode.dev/getting-started-with-open-source-as-a-technical-writer)** By Amarachi Iheanacho
+
+**[How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)**
+
+**[4 tips to becoming a technical writer with open source contributions](https://opensource.com/article/21/11/technical-writing-open-source)** By Ashley Hardin
+
+**[Contributing to open source docs as a technical writer](https://passo.uno/contribute-open-source-docs/)** By Fabrizio Ferri Benedetti
+
+**[Open Source for Technical Writers - A Guide on how to make Contributions.](https://medium.com/@techwritershub/open-source-for-technical-writers-a-guide-on-how-to-make-contributions-ab1bb1962fc1)** By TechWriters Hub 
+
+**[The Technical Writers Guide to Contributing to Open Source Projects](https://edidiongasikpo.com/the-technical-writers-guide-to-contributing-to-open-source-projects)** By Edidiong Asikpo (Didi)
+
+
+
+
 
 </details>
 
