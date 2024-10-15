@@ -429,6 +429,9 @@ Hackmamba wouldn't be Hackmamba without you. Every contribution counts. Thank yo
   <img src="https://contrib.rocks/image?repo=hackmamba-io/Technical-Writing-Course-with-Curriculum" max={1000} columns={100} anon={1} />
 </a>
 
+Made with [contrib.rocks](https://contrib.rocks).
+
+
 ## Our Social Media Channels 🔗
 
 <details>
