@@ -435,7 +435,7 @@ Hackmamba wouldn't be Hackmamba without you. Every contribution counts. Thank yo
     
 <summary>Channels</summary>
 
-**[Youtube](www.youtube.com/@hackmamba)**
+**[Youtube](https://www.youtube.com/@hackmamba)**
     
 **[Website](https://hackmamba.io/)**
     
