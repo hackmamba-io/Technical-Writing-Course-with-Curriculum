@@ -419,6 +419,8 @@ Write a short introduction about technical writing based on these resources and 
 
 </details>
 
+
+
 ## Our Top Contributors ✨
 
 Hackmamba wouldn't be Hackmamba without you.Every contribution counts. Thank you for being part of this journey.
@@ -426,3 +428,19 @@ Hackmamba wouldn't be Hackmamba without you.Every contribution counts. Thank you
 <a href="https://github.com/hackmamba-io/Technical-Writing-Course-with-Curriculum/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hackmamba-io/Technical-Writing-Course-with-Curriculum" max={1000} columns={100} anon={1} />
 </a>
+
+## Social Media Channels 🔗
+
+<details>
+    
+**[youtube.com](www.youtube.com/@hackmamba)**
+    
+**[webisite](https://hackmamba.io/)**
+    
+**[Linkdin](https://www.linkedin.com/company/hackmamba-io/)**
+    
+**[X.com](https://x.com/hackmamba)**
+    
+**[Blog](https://hackmamba.io/blog/)**
+
+</details>
