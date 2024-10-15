@@ -433,14 +433,16 @@ Hackmamba wouldn't be Hackmamba without you.Every contribution counts. Thank you
 
 <details>
     
-**[youtube.com](www.youtube.com/@hackmamba)**
+<summary>Channels</summary>
+
+**[Youtube](www.youtube.com/@hackmamba)**
     
-**[webisite](https://hackmamba.io/)**
+**[Website](https://hackmamba.io/)**
     
-**[Linkdin](https://www.linkedin.com/company/hackmamba-io/)**
+**[Linkedin](https://www.linkedin.com/company/hackmamba-io/)**
     
-**[X.com](https://x.com/hackmamba)**
+**[X](https://x.com/hackmamba)**
     
-**[Blog](https://hackmamba.io/blog/)**
+**[Blogs](https://hackmamba.io/blog/)**
 
 </details>
