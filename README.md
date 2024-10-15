@@ -426,7 +426,7 @@ Write a short introduction about technical writing based on these resources and 
 Hackmamba wouldn't be Hackmamba without you. Every contribution counts. Thank you for being part of this journey.
 
 <a href="https://github.com/hackmamba-io/Technical-Writing-Course-with-Curriculum/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=hackmamba-io/Technical-Writing-Course-with-Curriculum" max={1000} columns={100} anon={1} />
+  <img src="https://contrib.rocks/image?repo=hackmamba-io/Technical-Writing-Course-with-Curriculum" max={1000} columns={100} anon={3} />
 </a>
 
 ## Our Social Media Channels 🔗
