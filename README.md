@@ -386,3 +386,4 @@ Hackmamba wouldn't be Hackmamba without you.Every contribution counts. Thank you
 <a href="https://github.com/hackmamba-io/Technical-Writing-Course-with-Curriculum/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hackmamba-io/Technical-Writing-Course-with-Curriculum" max={1000} columns={100} anon={1} />
 </a>
+
