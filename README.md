@@ -60,6 +60,8 @@ Write a short introduction about technical writing based on these resources and 
 
 **[Steps to creating an outstanding content outline for Technical Writers](https://hackmamba.io/blog/2024/08/content-outline-for-technical-writers/)**
 
+**[A guide to creating a content brief for technical writers [+template]](https://hackmamba.io/blog/2024/07/content-brief-for-technical-writers-template/)**
+
 **[9 Essential Technical Writing Skills Every Writer Must Possess](https://whatfix.com/blog/technical-writing-skills/)**
 
 **[Essential Technical Writing Skills](https://technicalwriterhq.com/career/technical-writer/technical-writing-skills/)**
