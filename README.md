@@ -364,6 +364,8 @@ Write a short introduction about technical writing based on these resources and 
 
 **[Tips on Conducting Proper Research in Tech Writing](https://medium.com/technical-writing-is-easy/tips-on-conducting-proper-research-in-tech-writing-7eeba58bde81)**
 
+**[Top 6 HTML Tags for SEO Every Developer Should Know](https://hackmamba.io/blog/2022/09/top-6-html-tags-for-seo-every-developer-should-know/)** 
+
 </details>
 
 ## Collaboration and Content Review 🤝
