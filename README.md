@@ -167,7 +167,7 @@ Write a short introduction about technical writing based on these resources and 
 
 **[The Only Markdown Crash Course You Will Ever Need](https://youtu.be/_PPWWRV6gbA?si=Euu86WZk21soZnq8)**
 
-**[An overview of Markdown, how it works, and what you can do with it**](https://www.markdownguide.org/)\*\*
+**[An overview of Markdown, how it works, and what you can do with it**](https://www.markdownguide.org/)
 
 </details>
 
