@@ -171,6 +171,14 @@ Write a short introduction about technical writing based on these resources and 
 
 **[An overview of Markdown, how it works, and what you can do with it](https://www.markdownguide.org/)**
 
+**[Mermaid](https://mermaid.js.org/intro/)**
+
+**[Dillinger](https://dillinger.io/)**
+
+**[Online Markdown Editor](https://onlinemarkdowneditor.dev/)**
+
+**[Readme](https://readme.so/editor)**
+
 </details>
 
 <details>
