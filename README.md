@@ -267,6 +267,8 @@ Write a short introduction about technical writing based on these resources and 
 
 <summary>Resources</summary>
 
+**[Everything Outside Code](https://www.youtube.com/@hackmamba)**
+
 **[Thenotboringtechwriter Podcast](https://www.thenotboringtechwriter.com/)**
 
 **[Technical Marketing Handbook](https://www.stitcher.com/show/technical-marketing-handbook)**
