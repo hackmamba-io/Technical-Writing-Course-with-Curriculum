@@ -15,6 +15,8 @@ Make sure to give us a star ⭐ on this repository. This will help us out a lot 
 <details>
 <summary>What is Technical Writing</summary>
 
+**[Best Roadmap to Learn Technical Writing](https://dev.to/engroso/best-roadmap-to-learn-technical-writing-2057)**
+
 **[How to Write Efficient Technical Blog Posts](https://www.youtube.com/watch?v=6LJ0-eHgBKc&t=74s)**
 
 **[What is Technical Writing?](https://technicalwriterhq.com/writing/technical-writing/)**
@@ -445,6 +447,8 @@ Write a short introduction about technical writing based on these resources and 
 
 **[You don’t need developer marketing unless…](https://medium.com/@blizzard2002/you-dont-need-developer-marketing-unless-0992514c0ff7)**
 
+
+**[Top Developer Marketing Agencies](https://dev.to/engroso/top-developer-marketing-agencies-1kcg)**
 
 </details>
 
