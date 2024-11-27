@@ -436,6 +436,7 @@ Write a short introduction about technical writing based on these resources and 
 <details>
 <summary>Market your content</summary>
 <br>
+
 **[What You Should Know About Developer Marketing In 2024](https://hackmamba.io/blog/2024/07/what-you-should-know-about-developer-marketing-in-2024/)**
 
 
