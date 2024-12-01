@@ -106,6 +106,7 @@ Write a short introduction about technical writing based on these resources and 
 </details>
 
 ## Resources and Tools for Best Practices 🗂️
+**Discover essential resources, software, and methodologies to enhance productivity, maintain quality, and follow industry-standard best practices.**
 
 ### Tooling
 
@@ -330,7 +331,7 @@ Write a short introduction about technical writing based on these resources and 
 </details>
 
 ## Guides and Types 🗺️
-
+**Explore various guides and types of technical documentation, their purposes, and how to choose the right format for your audience.**
 <details>
 
 <summary>Forms of technical writing</summary>
@@ -363,7 +364,7 @@ Write a short introduction about technical writing based on these resources and 
 </details>
 
 ## Research and SEO for Technical Writing 🔬
-
+**Learn effective research methods and SEO strategies to create high-ranking, audience-focused technical content.**
 <details>
 
 <summary>What is SEO?</summary>
@@ -383,7 +384,7 @@ Write a short introduction about technical writing based on these resources and 
 </details>
 
 ## Collaboration and Content Review 🤝
-
+**Understand the importance of teamwork and structured review processes to deliver accurate, polished, and impactful technical content.**
 <details>
 
 <summary>Collaborative Writing</summary>
@@ -397,7 +398,7 @@ Write a short introduction about technical writing based on these resources and 
 </details>
 
 ## Portfolio Development and Continuous Learning 💼
-
+**Master the art of showcasing your technical writing skills and stay updated with evolving trends through lifelong learning.**
 <details>
 
 <summary>Writing Portfolio</summary>
@@ -436,7 +437,7 @@ Write a short introduction about technical writing based on these resources and 
 </details>
 
 ## Developer Marketing ➰
-
+**Explore strategies to effectively market technical products and services, bridging the gap between developers and their audience.**
 <details>
 <summary>Market your content</summary>
 <br>
