@@ -461,7 +461,7 @@ Write a short introduction about technical writing based on these resources and 
 <summary>Check them out</summary>
 <br>
 
-**[Paying Opportuinities](https://whopayswriters.me/)**
+**[Paying Opportunities](https://whopayswriters.me/)**
 
 </details>
 
