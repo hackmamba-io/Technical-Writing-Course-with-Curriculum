@@ -455,7 +455,7 @@ Write a short introduction about technical writing based on these resources and 
 
 </details>
 
-## Developer Marketing ➰
+## Job Opportunities 👨‍💼
 **Explore some opportunities around Technical Writing.**
 <details>
 <summary>Check them out</summary>
