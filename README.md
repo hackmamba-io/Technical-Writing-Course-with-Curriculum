@@ -455,6 +455,16 @@ Write a short introduction about technical writing based on these resources and 
 
 </details>
 
+## Developer Marketing ➰
+**Explore some opportunities around Technical Writing.**
+<details>
+<summary>Check them out</summary>
+<br>
+
+**[Paying Opportuinities](https://whopayswriters.me/)**
+
+</details>
+
 ## Our Top Contributors ✨
 
 Hackmamba wouldn't be Hackmamba without you. Every contribution counts. Thank you for being part of this journey.
