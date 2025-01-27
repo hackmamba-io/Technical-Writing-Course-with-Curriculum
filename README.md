@@ -198,6 +198,12 @@ Write a short introduction about technical writing based on these resources and 
     
 **[freeCodeCamp](https://www.freecodecamp.org/)**
 
+**[Ghost](https://ghost.org/)**
+
+**[Hacker News](https://news.ycombinator.com/)**
+
+**[Hackernoon](https://hackernoon.com/)**
+
 </details>
 
 ### Networking
