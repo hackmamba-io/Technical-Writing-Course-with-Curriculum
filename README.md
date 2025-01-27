@@ -465,6 +465,17 @@ Write a short introduction about technical writing based on these resources and 
 
 </details>
 
+## Video Content Creation 📹
+**Explore how to make good Video tutorials**
+<details>
+<summary>Check them out</summary>
+<br>
+
+**[How to make Video Tutorial on YouTube](https://youtu.be/llRF1ZuLaFE?si=Yv37InTVpNHfFvsQ)**
+
+</details>
+
+ 
 ## Our Top Contributors ✨
 
 Hackmamba wouldn't be Hackmamba without you. Every contribution counts. Thank you for being part of this journey.
