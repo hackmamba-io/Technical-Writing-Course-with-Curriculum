@@ -30,6 +30,7 @@ Make sure to give us a star ⭐ on this repository. This will help us out a lot 
 **[A software developer's guide to Writing](https://theankurtyagi.com/a-software-developers-guide-to-writing/)**
 
 **[Types of Technical Writing](https://www.acadecraft.com/blog/types-of-technical-writing/)**
+**[Getting started with technical writing - as a product](https://www.youtube.com/watch?v=CxjK52CSZ0o)**
 
 </details>
 
@@ -46,6 +47,7 @@ Make sure to give us a star ⭐ on this repository. This will help us out a lot 
 <summary>Growth as a Technical Writer</summary>
 
 **[What is the Technical Writer Career Path?](https://www.youtube.com/watch?v=RZF34wQEv0Y)**
+**[Documentation metrics: Measuring the value of documentation (w/ Bob Watson)](https://hackmamba.io/blog/2024/08/documentation-metrics/)**
 
 </details>
 
@@ -69,6 +71,10 @@ Write a short introduction about technical writing based on these resources and 
 **[Essential Technical Writing Skills](https://technicalwriterhq.com/career/technical-writer/technical-writing-skills/)**
 
 **[11 Skills of a Good Technical Writer](https://clickhelp.com/clickhelp-technical-writing-blog/11-skills-of-a-good-technical-writer/#interest-in-science-and-technology)**
+
+**[How to generate ideas for technical content in 25 minutes](https://hackmamba.io/blog/2024/05/generate-ideas-for-technical-content/)**
+
+**[How to Source Technical Blog Titles and Write Consistently - Colby, William](https://www.youtube.com/watch?v=axaCbfDnGm0)**
 
 </details>
 
@@ -106,6 +112,7 @@ Write a short introduction about technical writing based on these resources and 
 </details>
 
 ## Resources and Tools for Best Practices 🗂️
+
 **Discover essential resources, software, and methodologies to enhance productivity, maintain quality, and follow industry-standard best practices.**
 
 ### Tooling
@@ -153,6 +160,7 @@ Write a short introduction about technical writing based on these resources and 
 **[Best Writing & Editing Tools in 2024](https://www.semrush.com/blog/content-editing-tools/)**
 
 **[The Best Free & Paid Proofreading & Editing Software](https://scribemedia.com/proofreading-editing-software/)** by **Tucker Max**
+**[eading Low-Code Documentation Tools for Technical Writers](https://hackmamba.io/blog/2024/09/low-code-documentation-tools/)**
 
 </details>
 
@@ -204,6 +212,8 @@ Write a short introduction about technical writing based on these resources and 
 
 **[Hackernoon](https://hackernoon.com/)**
 
+**[Top 5 Open-Source Documentation Development Platforms of 2024](https://hackmamba.io/blog/2024/02/top-5-open-source-documentation-development-platforms-of-2024/)**
+
 </details>
 
 ### Networking
@@ -238,6 +248,8 @@ Write a short introduction about technical writing based on these resources and 
 
 **[Source Code by Suraj Vishwakarma](https://substack.com/@surajondev)**
 
+**[Top 5 Technical Writing Communities of 2024](https://hackmamba.io/blog/2024/03/top-5-technical-writing-communities-of-2024/)**
+
 </details>
 
 ### Best Practices
@@ -252,6 +264,12 @@ Write a short introduction about technical writing based on these resources and 
     
 **[Technical Writing: 6 Best Practices for Effective Content](https://proedit.com/technical-writing-best-practices/)**
 
+**[Top 7 Practical Tips for Creating Effective SaaS Documentation: A Comprehensive Guide]()https://hackmamba.io/blog/2023/06/top-7-practical-tips-for-creating-effective-saas-documentation-a-comprehensive-guide/**
+
+**[Tips For Writing Great Technical Content](https://www.youtube.com/watch?v=wqdeJhzIYI8)**
+
+**[Steps to creating an outstanding content outline for Technical Writers](https://hackmamba.io/blog/2024/08/content-outline-for-technical-writers/)**
+
 </details>
 
 ### Learning Outcomes
@@ -265,6 +283,8 @@ Write a short introduction about technical writing based on these resources and 
 **[Learn Markdown](https://www.notion.so/Resources-and-Best-Practices-0cd869f629d649369e0f9c6e084aa7e0?pvs=21)**
 
 **[Git and Version Control](https://www.notion.so/Resources-and-Best-Practices-0cd869f629d649369e0f9c6e084aa7e0?pvs=21)**
+
+**[Top 5 online mentorship platforms for technical writers](https://hackmamba.io/blog/2024/07/mentorship-platforms-for-technical-writers/)**
 
 </details>
 
@@ -337,7 +357,9 @@ Write a short introduction about technical writing based on these resources and 
 </details>
 
 ## Guides and Types 🗺️
+
 **Explore various guides and types of technical documentation, their purposes, and how to choose the right format for your audience.**
+
 <details>
 
 <summary>Forms of technical writing</summary>
@@ -370,7 +392,9 @@ Write a short introduction about technical writing based on these resources and 
 </details>
 
 ## Research and SEO for Technical Writing 🔬
+
 **Learn effective research methods and SEO strategies to create high-ranking, audience-focused technical content.**
+
 <details>
 
 <summary>What is SEO?</summary>
@@ -385,12 +409,14 @@ Write a short introduction about technical writing based on these resources and 
 
 **[Tips on Conducting Proper Research in Tech Writing](https://medium.com/technical-writing-is-easy/tips-on-conducting-proper-research-in-tech-writing-7eeba58bde81)**
 
-**[Top 6 HTML Tags for SEO Every Developer Should Know](https://hackmamba.io/blog/2022/09/top-6-html-tags-for-seo-every-developer-should-know/)** 
+**[Top 6 HTML Tags for SEO Every Developer Should Know](https://hackmamba.io/blog/2022/09/top-6-html-tags-for-seo-every-developer-should-know/)**
 
 </details>
 
 ## Collaboration and Content Review 🤝
+
 **Understand the importance of teamwork and structured review processes to deliver accurate, polished, and impactful technical content.**
+
 <details>
 
 <summary>Collaborative Writing</summary>
@@ -404,7 +430,9 @@ Write a short introduction about technical writing based on these resources and 
 </details>
 
 ## Portfolio Development and Continuous Learning 💼
+
 **Master the art of showcasing your technical writing skills and stay updated with evolving trends through lifelong learning.**
+
 <details>
 
 <summary>Writing Portfolio</summary>
@@ -443,26 +471,27 @@ Write a short introduction about technical writing based on these resources and 
 </details>
 
 ## Developer Marketing ➰
+
 **Explore strategies to effectively market technical products and services, bridging the gap between developers and their audience.**
+
 <details>
 <summary>Market your content</summary>
 <br>
 
 **[What You Should Know About Developer Marketing In 2024](https://hackmamba.io/blog/2024/07/what-you-should-know-about-developer-marketing-in-2024/)**
 
-
 **[Can a developer marketing agency help you win the dev community?](https://hackmamba.io/blog/2024/05/can-developer-marketing-agency-win-dev-community/)**
 
-
 **[You don’t need developer marketing unless…](https://medium.com/@blizzard2002/you-dont-need-developer-marketing-unless-0992514c0ff7)**
-
 
 **[Top Developer Marketing Agencies](https://dev.to/engroso/top-developer-marketing-agencies-1kcg)**
 
 </details>
 
 ## Job Opportunities 👨‍💼
+
 **Explore some opportunities around Technical Writing.**
+
 <details>
 <summary>Check them out</summary>
 <br>
@@ -472,7 +501,9 @@ Write a short introduction about technical writing based on these resources and 
 </details>
 
 ## Video Content Creation 📹
+
 **Explore how to make good Video tutorials**
+
 <details>
 <summary>Check them out</summary>
 <br>
@@ -481,7 +512,6 @@ Write a short introduction about technical writing based on these resources and 
 
 </details>
 
- 
 ## Our Top Contributors ✨
 
 Hackmamba wouldn't be Hackmamba without you. Every contribution counts. Thank you for being part of this journey.
@@ -490,9 +520,7 @@ Hackmamba wouldn't be Hackmamba without you. Every contribution counts. Thank yo
   <img src="https://contrib.rocks/image?repo=hackmamba-io/Technical-Writing-Course-with-Curriculum" max={1000} columns={100} anon={1} />
 </a>
 
-
 Made with [contrib.rocks](https://contrib.rocks).
-
 
 ## Our Social Media Channels 🔗
 
@@ -501,13 +529,13 @@ Made with [contrib.rocks](https://contrib.rocks).
 <summary>Channels</summary>
 
 **[Youtube](https://www.youtube.com/@hackmamba)**
-    
+
 **[Website](https://hackmamba.io/)**
-    
+
 **[Linkedin](https://www.linkedin.com/company/hackmamba-io/)**
-    
+
 **[X](https://x.com/hackmamba)**
-    
+
 **[Blogs](https://hackmamba.io/blog/)**
 
 </details>
