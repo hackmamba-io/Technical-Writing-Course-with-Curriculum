@@ -160,7 +160,8 @@ Write a short introduction about technical writing based on these resources and 
 **[Best Writing & Editing Tools in 2024](https://www.semrush.com/blog/content-editing-tools/)**
 
 **[The Best Free & Paid Proofreading & Editing Software](https://scribemedia.com/proofreading-editing-software/)** by **Tucker Max**
-**[eading Low-Code Documentation Tools for Technical Writers](https://hackmamba.io/blog/2024/09/low-code-documentation-tools/)**
+
+**[Leading Low-Code Documentation Tools for Technical Writers](https://hackmamba.io/blog/2024/09/low-code-documentation-tools/)**
 
 </details>
 
