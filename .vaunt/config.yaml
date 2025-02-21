@@ -2,7 +2,7 @@ version: 0.0.1
 achievements:
   - achievement:
       name: Hackmamba Star
-      icon: https://raw.githubusercontent.com/hackmamba-io/.vaunt/hackmamba_star.png
+      icon: https://raw.githubusercontent.com/hackmamba-io/Technical-Writing-Course-with-Curriculum/main/.vaunt/hackmamba_star.png
       description: Awarded for starring our repository, make a wish!
       triggers:
         - trigger:
@@ -11,7 +11,7 @@ achievements:
             condition: starred = true
   - achievement:
       name: Pull Request Hero
-      icon: https://raw.githubusercontent.com/hackmamba-io/example/.vaunt/hackmamba_contribute.png
+      icon: https://raw.githubusercontent.com/hackmamba-io/Technical-Writing-Course-with-Curriculum/main/.vaunt/hackmamba_contribute.png
       description: Thank you for contributing to our technical writing repository!
       triggers:
         - trigger:
