@@ -540,3 +540,10 @@ Made with [contrib.rocks](https://contrib.rocks).
 **[Blogs](https://hackmamba.io/blog/)**
 
 </details>
+
+### Available Badges
+
+| Name | Icon | Description |
+| ---- | ---- | ----------- |
+| Hackmamba Star | <img src="https://raw.githubusercontent.com/hackmamba-io/Technical-Writing-Course-with-Curriculum/main/.vaunt/hackmamba_star.png" width="150" /> | Awarded for starring our repository, make a wish! |
+| Pull Request Hero | <img src="https://raw.githubusercontent.com/hackmamba-io/Technical-Writing-Course-with-Curriculum/main/.vaunt/hackmamba_contribute.png" width="150" /> | Thank you for contributing to our technical writing repository! |
