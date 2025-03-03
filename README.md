@@ -541,7 +541,9 @@ Made with [contrib.rocks](https://contrib.rocks).
 
 </details>
 
-### Available Badges
+## Available Badges
+
+To earn these exclusive custom badges, star or contribute to our repository. These badges can also be used to showcase in your Portfolio!
 
 | Name | Icon | Description |
 | ---- | ---- | ----------- |
