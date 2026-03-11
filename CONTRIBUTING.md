@@ -1,4 +1,4 @@
-# Contributing to Technical Writing Course with Curriculum
+# Contributing Technical Writing to Courses with Curriculum
 
 Thanks for taking the time to contribute! Here are some guidelines to help you:
 
@@ -6,36 +6,32 @@ Thanks for taking the time to contribute! Here are some guidelines to help you:
 
 1. **Fork the repository**: Create a personal copy of the repo by clicking the fork button.
 2. **Clone your fork**: 
-   ```bash
-   git clone https://github.com/your-username/repo-name.git
-   ```
+   ```bash```
+  ```git clone https://github.com/your-username/repo-name.git```
 3. **Create a branch**: Work on a new feature or fix in a separate branch.
-   ```bash
-   git checkout -b feature/your-feature
-   ```
+   ```bash```
+   ```git checkout -b feature/your-feature```
 
 ## Submitting Changes
 
 1. **Test your changes**: Ensure that all existing and new tests pass.
 2. **Commit**: Write meaningful commit messages:
-   ```bash
-   git commit -m "Fix: short description of the fix"
-   ```
+   ```bash```
+   ```git commit -m "Fix: short description of the fix"```
 3. **Push your branch**:
-   ```bash
-   git push origin feature/your-feature
-   ```
+   ```bash```
+   ```git push origin feature/your-feature```
 
 4. **Open a Pull Request**: Once your changes are ready, submit a pull request.
 
 ## Style Guidelines
-
+```
 - Follow the existing code style.
 - Ensure all new code is properly commented.
-  
+```
 ## Reporting Issues
-
+```
 - Use [Issues](https://github.com/hackmamba-io/Technical-Writing-Course-with-Curriculum/issues) to report bugs or request features.
 - Provide a detailed description and steps to reproduce (if applicable).
-
+```~$:.```
 ---
